@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/483
+seq: 483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:c47311a1497c2fd4743b11d918be9987ed01e44be37181580973d79cd0929307

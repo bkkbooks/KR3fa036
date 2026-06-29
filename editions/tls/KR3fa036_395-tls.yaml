@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/395
+seq: 395
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錐形也餘切法即句股方錐也以對角斜線分塹堵為兩成此二種錐形遂兼兩法圓塹堵儀求黃赤道度圖方塹堵內容割渾圓之分體以黃道弧為斜面之界赤道弧為底之界大距弧及逐度距弧為其髙髙之勢曲抱如渾圓之分斜面平面皆為平圓四之一圓塹堵者雖亦在方塹堵之內然又在所容割圓分體之外與割渾圓體同底而不同面其面形横短縱長如割撱圓四之一其撱圓邊之距心皆以逐度距緯之割線為其界而以逐度距緯之切線為其髙其撱之法小徑當二分大徑當二至若自斜面之黃道象限各度直剖至赤道平面則在割渾圓體之內其體
+  hash: sha256:9ffe04bf7d29681c767434712b32b02ce2a1785751b6366b1d8428d63d5b9c38
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:929b772ede1e54d0a769afca4b9ded7014ea0474cc00e68ada17ea403d1df8e9

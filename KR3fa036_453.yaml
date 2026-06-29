@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/453
+seq: 453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星加一十三秒三十六𢕄火星加五十二秒五十七𢕄金星加一分二十二秒五十七𢕄水星加一分四十五秒二十四𢕄上三星歲輪上軌迹繞日成圓象圖五星本天並以地為心與日月同至若歲輪即遲留逆伏之假目惟金水繞太陽左右而行直以太陽為歲輪心亦以二星之平行與太陽同度也土木火三
+  hash: sha256:4e68e7166aae7081104f0887fe951450041e4b61fae0665f52b428df9c035ee6
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:a1411abc2ef7d350923a29ded8a90cbfcf491e5a9320d8f9c3d248951eed2323

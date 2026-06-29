@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/620
+seq: 620
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以列宿分值宫度多用赤道經度或用黃道經度而不知地平經緯其昭著於天者固如此也恒星經緯定時圖
+  hash: sha256:f7445713954d6fc66e6f6bd98a5f0d0dfe02403a9b0d284aa270882534b0be16
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:8e8fbb19d59d368c4c62635dbc94e97630e255f6d2aa34849f2f2e68a54be096

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/527
+seq: 527
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地平橫偃經度以地平子午之㸃為心天頂為上地底為下天頂規即為𫑗酉規中直線為子午規中東之間為丑寅辰已規中西之間為未申戌亥規中橫線為地平規此地平經度之本象也若以加於赤道之上則以橫線上之曲線為地平規而日月星之升降俱以此為出入之界焉赤道上加地平緯度圖北極至赤道分九十緯度天頂至地平亦分九十緯度法用天頂南北之緯度從天頂南北各數九十度折半為樞運之得地平初規為初出地平之度南北
+  hash: sha256:8c22be53e322456c974e0d1d49c60a6d5f738899eccb2ab889e8ec42954058e1
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:009d1a4188c6910c09ecdb5c9ed76d35e107947e7cede89d3850dff5f7d25724

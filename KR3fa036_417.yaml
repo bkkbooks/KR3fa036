@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/417
+seq: 417
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朔䇿之半如求首朔後第幾月之朔䇿望䇿各依月數求之太隂交周朔望䇿表太隂每日平行一十三度一十分三十五秒一𢕄二十四纎一十六忽一十六芒與正交每日平行三分一十秒三十八𢕄一十九纎四忽一十八芒相加得太隂每日距交行一十三度一十三分四十五秒三十九𢕄四十三纎二十忽三十四芒與朔䇿日分相乘滿周天去之得一宫四十分一十三秒五十正𢕄二十七纎五十三忽一十八芒為交周朔䇿望䇿六宫一十五度二十分六秒五十八𢕄即朔䇿之半亦各依首朔後之月數按表加之
+  hash: sha256:08c856f13edea209bf09b019c76484a4931f1481ca5645ea5a1fff1d650e2f8c
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:68def07df451aef1a39cb0649f5ef3e32b896b8f0cec912bcac94d37c35ff559

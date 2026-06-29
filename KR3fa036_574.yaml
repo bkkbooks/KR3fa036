@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/574
+seq: 574
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故二法並用而時刻乃真也又直景為太陽上半徑之影倒景為太陽下半徑之景二法並用而參考之然後得太陽心之景而為時刻之真數也太陽中表測景圖股表之景得太陽上半徑之度分减去半徑始得太陽心之度句表之景得太陽下半徑之度分加入半徑始得太陽心之度分蓋𨇠度以太陽心之所到為定必得太陽心之度分而得度分真時刻亦真也惟用中表𥪡二小柱于平面之上二小柱之端置一橫柱或繫一橫線以之測景則上半徑之景自上而入
+  hash: sha256:4065b6217868690f5d901ff21b4b94c24ff9420ee251ab0d08545c03f869f7ae
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:4cf126e13d78a4a485fe7934be8bdf8d074ff69168b8a5d24e582a679cbb637b

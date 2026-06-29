@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/379
+seq: 379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道節氣旁視圖立置渾儀而從二分交角視之則赤道黃道俱變直線黃道運旋之跡亦俱變直線法于夏至作斜線過二分至冬至即成黃道以黃道半徑為九十度之底定尺每十五度正弦取底移至黃道半徑上于二分上下各識之即各節氣日𨇠黃道上度也或用節氣線尺即以黃道半徑為二十三度二十九分之底定尺向黃道半徑上識之亦同乃自黃道上各㸃作直線並與赤道平行即得各節氣疎密線是為黃道運旋之跡也
+  hash: sha256:28ae0a99a563601eb7725bb9991f2ae8c833801faa6562daa3c0c358ec3b782c
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:91437c46452eef0956d83d4aff0982cda77f73c7cc4b8a76babcde1a7279f29c

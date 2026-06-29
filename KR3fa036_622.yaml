@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/622
+seq: 622
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊法用中星定時刻惟星在午正者可用其餘各宫方位與時刻異疏密之度不可用以定時今既推得南北真線東西偏度而知中星之度正偏遲早異於他處矣又用蓋天法推得他平經度之界緯度之規則不獨正午可以定時而凡恆星之出入地平以至天頂與其在正午東西諸宫度上均可用其經度或緯度以求赤道經度而得本地之時刻也兹用冬至子正為一圖以見例餘悉倣此推之周歲周日中星表
+  hash: sha256:dc1acfaf3b13483b3cb3a492518d7319e620ac76bb1956f460f9dc94973ec4e8
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:5cdeabe092d0c4f4042e247bfc138e9d38b50461b9420fa17ce7e3a638dde6fe

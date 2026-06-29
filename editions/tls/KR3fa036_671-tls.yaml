@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/671
+seq: 671
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 設三十度五十度兩弧正弦餘割互求假如有角三十度邊五十度此兩弧也角之正弦五與其餘割二相乘得一邊之正弦七六六四四四與其餘割一三五四七三相乘亦得一以乘得之一為實以此弧正弦五除之得二為餘割以餘割除之亦得正弦以他弧正弦七六六四四四除之得一三五四七三為餘割以餘割除之亦得正弦又正弦餘割餘弦正割相求正弦餘割相乘得一餘弦正割相乘亦得一故以一為實則正弦與餘割他餘弦與他正割皆可互求
+  hash: sha256:e14bec07b3d6f9efddabc921dd32f65b352dbd2b8dbad91162f31e04ba147761
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:f98f1d01476508523687f92af5cdda9bd860dfee4ce38d92e45b104e5bd5736c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/685
+seq: 685
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實相加之數開方得各線數所以異者正弦與半徑求餘弦是以句弦求股正弦為句半徑為弦餘弦為股也正割與半徑求正切是以股弦求句正割為弦半徑為股正切為句也餘割與半徑求餘切是以弦句求股餘弦與半徑求正弦是以股弦求句實則句股皆為直線可以互名不必細分也惟弦為斜線另立一法切求割為以句股求弦則必以句股積數相加開方而得弦也
+  hash: sha256:145421e26dbcb103e31fcfc60bd2366f542f7d969fd8dba2f31cda053882e8f7
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:a390204e0ff0d3a87d20d2938d1c086f4e79bf9b5fd60ecb0ae90b30a9ac6d5e

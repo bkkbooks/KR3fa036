@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/500
+seq: 500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 春秋分朝夕測南北真線圖指南針之所指指大地之正南非各方之正南也各方之正南必以日月星之出入財髙度定之春秋分時日出之時刻為𫑗正日出之方位亦為𫑗正日入之時刻為酉正日入之方位亦為酉正故於此時用儀器測得日出之處即正東二入之處即正西半周分中之處即正南或取表影作東西線興東西線相交作十字線即南北真線也春秋分不拘時刻測南北真線圖一歲之中日影之在地者皆成曲線而惟春秋分兩日在地獨成直線影有長短而影之所至無屈曲故
+  hash: sha256:baa8e6e9ad45226d68f1558d8ebbe5df210d692431211a3985b13b867333dde8
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:d43db777a277cc7f82d20456b2d569e1b36f571be742f305dffdef0e809e7d6c

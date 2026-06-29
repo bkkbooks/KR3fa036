@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/552
+seq: 552
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 頂線三日晷線四直應度分五垂線六日影線七表柱用法上下𥂟相加視地平線日晷線直應度分所值以定地平各度今立簡法止用一𥂟依本地北極之髙安置北極而以一線測之視線垂𥂟周何處得髙度以線加髙度視所值刻線得時刻以線量直應度分得出入之廣至於出入時刻晝夜長短朦朧影限又可直於𥂟上得之方塹堵儀求赤道地平度圖方塹堵儀以正方為底其上有地平象限以立句股為兩和之牆其上有赤道距地平度以長方為斜面
+  hash: sha256:4d9252a175f9ba46f37df3e611a28bce2a1998747d3034007820cf628c94c898
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:8d3c240e0189ca9d883ee0ceeb16811490c8d0c322b006cbefaeed1d3fa1a896

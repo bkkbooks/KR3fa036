@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/371
+seq: 371
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃赤大距古為二十四度元郭守敬為二十三度九十分三十秒西法為二十三度二十九分三十秒又屢加精測實得二十三度二十九分故以二十三度二十九分列表用表之法察太陽實行在上六宫用順度在下六宫用逆度以實行之宫對實行之度其縱横相遇之數即為所求之距度也表只列整度其分數用中比例法求之均輪距度圖黃赤大距二十三度二十九分近交差多近至差少
+  hash: sha256:a112074ddb5ff0e2da058593909e3196cfaa9de0b27f5905c5ff6594a6cccbc6
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:66eeb48ed32eae3925c8d587dad3a8dd954b0f0960260864d68a346d18681f4d

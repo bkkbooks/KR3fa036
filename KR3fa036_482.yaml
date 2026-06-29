@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/482
+seq: 482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤𢕄秒經分差赤𢕄秒緯分差黃道歲差五十一秒為恆星東行之數周天所同無有異者赤道歲差各星多寡之數不同且有加有减不能一致以其在兩極之間或在兩交之際也二十八宿距星無在兩極之間者故經度有加無减而有在兩交之際者故緯度有加有減也兹用經緯各差列表每年按數加减而赤道之度乃真赤道之度真而測量之用乃准焉
+  hash: sha256:785119a3fb19ff787612cbc8b53a3f47d08fb9afe575e983ecbf6d87697cbb19
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:6596b6ca43eeb0b7c7310741eca6e2172b2951b6170b1cf4dc56396d2bda1179

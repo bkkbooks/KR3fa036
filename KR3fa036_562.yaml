@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/562
+seq: 562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽髙弧晷表太陽髙弧隨地不同亦隨時不同兹用鹽城北極出𫑗初𫑗正辰初辰正巳初巳正午初午正度分度分度分度分度分度分度分度分冬至九三一七九三二五三四三二六四一一三九冬至小寒一一一四二二三三三一一九二七四二四九大雪大寒五一五二二二三三五三四三一一六九三四三六七小雪立春三七一二二三三五三三四三四三四一二三八四六立冬雨水五五一三二一三六七五八一七五四一四二三五五九霜降驚蟄九一二一一九三一四四四三五二五一六八三一四寒露
+  hash: sha256:ac872936e3f96fb5837a15c474a01fe23e2e2ad0c97fa56ee31c210ebd977f44
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:ae12faa9b24cff4103c5b128d718a55f8e9960b83d08e49842b5ce5b0fac8fc2

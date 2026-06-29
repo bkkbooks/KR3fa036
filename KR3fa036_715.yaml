@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/715
+seq: 715
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 减乙數得中數乃以甲數為一率中數為二率半徑為三率求得四率四率為黃經正弦檢表得三十度
+  hash: sha256:223eaf32830fd5e70e85d9aedacb6073a2c792c8e7955e413ced94ffc5310f5d
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:7578069d1a54a5ae275443cb5f8ec51e24ec7475385ea12310da97caf8838a3f

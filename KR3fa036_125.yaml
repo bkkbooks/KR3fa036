@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/125
+seq: 125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 和弦較和除之亦得弦較較句股和方內减弦積餘為四句股積即弦和較乘弦和和之積以弦和較除之得弦和和弦和和除之亦得弦和較又弦和和積减四因積餘數折半弦和和除之得弦弦和較積减四因積餘數折半弦和較除之得弦句股和股弦和相乘倍之開方得弦和和句股較股弦較相乘倍之開方得弦和較又句股和弦較較相加自乘句股和自乘兩數相减折半求長濶和用帶縱和數法開之得句股弦又句弦和股弦和相乘倍之開方以和减之得句股弦又以句股併弦和和弦較較弦較和求
+  hash: sha256:9bfab8b2a0788da1ddc61cdd36ad5e2fc78fc5c1cca5059afdd1755e75f95a09
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:f1950cb362c82b67495fe8b89b3f6b938e074eb9da342df0043d43a66cfcaeb3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/544
+seq: 544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各宫北極出地列表自北極出地五度至北極出地五十六度備列於前而以各宫之北極髙度分列於後求樞運規者按表横推即得假如𥂁城北極出地三十三度横推三九五十一宫北極出地一十七度五十八分二八六十二宫北極出地二十九度二十一分依數求各宫之樞以運各宫之規可也横偃宫度割圓圖地平横偃宫度即得各宫之規亦用割圓法割至一百二十三度以備黃道出入安命及㸃定諸曜之用其法以黃道規上本日𨇠度興時刻相對乃察黃道
+  hash: sha256:5c27d560340cf7d84f77399b87b915d213c6697482848f9ec8576b7f7d3fedca
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:4e530a08353e308c09646a0c52eb69375f80c498ba109b3c15f19b9793f982e7

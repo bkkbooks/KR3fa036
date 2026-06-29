@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/550
+seq: 550
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則地平正而赤道斜亦如黃赤之交加也赤道地平可以互求亦如黃赤之可以互求也用正弦寫其外面其度中疎外密而測量尤便假如在𥂁城測得太陽地平經度在𫑗南三十度緯度髙二十度便知赤道經度在辰宫十三度緯度在赤南十一度也簡平節氣時刻照臨地平圖簡平本法用二𥂟下𥂟一極線二赤道線三周天圈四節氣線五黃道圈六時刻線上𥂟一地平線二天
+  hash: sha256:5b7caacebf1dc9364ca0f638c9174d6074c0ea9295b59b66dc4817aa6c5b96df
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:9f959c186cf73c3e5076350eb9c7257c1e4f907a5db287776179d11c62019b54

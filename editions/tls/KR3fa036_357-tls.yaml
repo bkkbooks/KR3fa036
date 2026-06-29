@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/357
+seq: 357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 剖分渾圓為二或從赤道剖分或從黃道剖分皆成平圓二圖即一圖而觀之天象未備合二圖而用之運轉亦難今得赤南放濶之法將南圖黃道之交角即於北圖赤規之外紀之與赤規連為一圖而黃道之度胥全交角之理益著可以用黃道推赤道亦可以用赤道推黃道矣又赤道運動黃道亦隨之以轉星曜在天之度一一按圖可得以作天地二𥂟其用尤至便也用赤經直線分黃經圖
+  hash: sha256:be6d6c0cab7440de9738ac2f88fe098cd1ea9e23d6deb3b041d5ee5af3ba309b
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:86fb591533752cb2a933b2427c455ebc9f942b2ecc81d9017a45ef48b922c859

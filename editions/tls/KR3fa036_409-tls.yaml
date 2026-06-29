@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/409
+seq: 409
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之距緯則又無定如圖白極與黃極赤極同在一線惟半交在丑未初度則然而距緯亦有大小之異半交在丑初又在陽厯在未初又在隂厯則距緯最大三十八度半統計十九年中合此者只三十八日若隂厯半交在初丑陽厯半交在未初則距緯止得十八度半十九年中合此者亦只三十八日其餘交㸃移半交亦移而白極亦移白極止能與黃極同在一線而不能與赤極同在一線則其距緯大小隨在不同此圖時舉一以見例若欲推求其變湏用二百四十九圖方能𥁞之最大距限圖
+  hash: sha256:6e64e44a1e91228b18136dd6ea52e000ee65485b933a9c1fac995e8ebb6db195
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:0c77979c33334ddaecb2c2b7c0603f7404de108d0756da077d5c39fa66bffa59

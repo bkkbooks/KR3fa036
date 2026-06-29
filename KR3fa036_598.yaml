@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/598
+seq: 598
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緯度之數較為真確月晷舊法用指南針又月出以三五八十换時不問緯度南北不問朔望遲早並不問本地之出入地平在何度分是以有差不若合用經緯定時時既真確且可合日月為一晷其經緯度從北極而分實由天頂而定緯南北各三十度內二十三度二十九分為日影所到各加五度一十七分二十秒為月影所到晷用三十度舉整數也經度以一度作時之四分十五度為一小時測日查七政時憲書日𨇠度分查黃赤距度表距緯度分察緯度定南北察經度定時刻測月查七政時憲書月離度分
+  hash: sha256:9d4953185a5c1027e633966e528974c8baa489bf420cfe797e2fc840009ab47f
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:0f463014dcfe485b132cd7a092b45b91fd845ba7a4cfb95c1b7a3dcc0a78f9bd

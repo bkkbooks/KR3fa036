@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/711
+seq: 711
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘數六九四六七六七用中比例算之得赤南緯四十四度零五秒一十二𢕄二十四纎此係乙數跨赤道故乙數內兼有赤緯及四率之數而以四率轉减亦得赤緯若星在秋分後春分前黃經亦在南則赤緯亦在南法當用加求得四率中數以加乙數為赤緯正弦又或星在秋分後而黃緯在北為緯北而經南法當用减以四率中數轉减乙數餘為赤緯正弦用中比例求得赤北緯度分秒也
+  hash: sha256:e9a278ed38d277e170d830adb4c8d17d23d0be730e05ccdbab9f610151b18735
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:53f7803fd07b45932c14f7dedf33b3d54753ee1d8d3f3b4fa41c07d757f89e2b

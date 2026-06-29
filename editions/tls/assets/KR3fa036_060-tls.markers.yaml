@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/markers/60
+seq: 60
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa036_tls_001-p30.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup28, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fa036_tls_001-p30.s2}
+  - {type: line-break, offset: 20, content: '', id: KX_2_dup30, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fa036_tls_001-p30.s3}
+  - {type: line-break, offset: 40, content: '', id: KX_3_dup30, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR3fa036_tls_001-p30.s4}
+  - {type: line-break, offset: 60, content: '', id: KX_4_dup30, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fa036_tls_001-p30.s5}
+  - {type: line-break, offset: 80, content: '', id: KX_5_dup30, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3fa036_tls_001-p30.s6}
+  - {type: line-break, offset: 100, content: '', id: KX_6_dup29, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3fa036_tls_001-p30.s7}
+  - {type: line-break, offset: 120, content: '', id: KX_7_dup29, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR3fa036_tls_001-p30.s8}
+  - {type: line-break, offset: 140, content: '', id: KX_8_dup29, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR3fa036_tls_001-p30.s9}
+  - {type: line-break, offset: 160, content: '', id: KX_9_dup29, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 180, content: '', id: KR3fa036_tls_001-p30.s10}
+  - {type: line-break, offset: 180, content: '', id: KX_10_dup29, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3fa036_tls_001-p30.s12}
+  - {type: line-break, offset: 200, content: '', id: KX_12_dup29, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 220, content: '', id: KR3fa036_tls_001-p30.s13}
+  - {type: line-break, offset: 220, content: '', id: KX_13_dup29, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR3fa036_tls_001-p30.s14}
+  - {type: line-break, offset: 240, content: '', id: KX_14_dup29, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3fa036_tls_001-p30.s15}
+  - {type: line-break, offset: 260, content: '', id: KX_15_dup29, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 280, content: '', id: KR3fa036_tls_001-p30.s16}
+  - {type: line-break, offset: 280, content: '', id: KX_16_dup29, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 300, content: '', id: KR3fa036_tls_001-p30.s17}
+  - {type: line-break, offset: 300, content: '', id: KX_17_dup29, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 320, content: '', id: KR3fa036_tls_001-p30.s18}
+  - {type: line-break, offset: 320, content: '', id: KX_18_dup29, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 340, content: '', id: KR3fa036_tls_001-p30.s19}
+  - {type: line-break, offset: 340, content: '', id: KX_19_dup29, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR3fa036_tls_001-p30.s20}
+  - {type: line-break, offset: 360, content: '', id: KX_20_dup29, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR3fa036_tls_001-p30.s21}
+  - {type: line-break, offset: 380, content: '', id: KX_21_dup29, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:a985f9e18699f97c6bc8997215bc3e6741b7f84ff78611fc6c1ed86b5a11e988

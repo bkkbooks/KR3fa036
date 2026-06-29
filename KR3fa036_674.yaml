@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/674
+seq: 674
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又正弦餘割正切餘切互求本弧之正弦餘割相乘他弧之正切相乘得數並同以乘得之數為實任以一線除之可以互求設三十度五十度兩弧以三十度之餘弦正割與五十度互求三十度之餘弦八六六二五四正割一一五四七五五十度之餘弦六四二七八七六正割一五五五七二三八正弦七六六四四四餘割一三五四七三餘切八三九九九六正切一一九一七五三六以本弧之兩線相乘則他弧之兩線可以互求以他弧之兩線相乘則本弧之兩線亦可以互求也
+  hash: sha256:4cdba7c5fc508f7e09c999ecf126e344fc6c53832dce0bca57a678377621fb31
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:1526edeab30da14b900d6295f3815d7b0020c3a2e11cfd29a688cc3550fd4a6c

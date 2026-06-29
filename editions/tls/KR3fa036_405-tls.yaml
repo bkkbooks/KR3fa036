@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/405
+seq: 405
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道上加白道度圖黃赤大距恒為二十三度二十九分黃白距限則有大小之異大為五度一十七分二十秒小為四度五十九分三十五秒今約取五度整數為用黃赤交㸃恒在辰戌初度黃白交㸃則又隨時不同每日退行三分有竒每年退行十九度有竒至十九年有竒滿二百四十二交而徧於黃道之十二宫則又復其始今取現在𫑗宫四度為圖黃道宫度恒從丑初起數白道宫度每從交㸃所到之度起數交㸃移則宫度亦移今取現在𫑗宫四度為初宫初度黃道出入於
+  hash: sha256:48e6f1253e13000300511249abbf0c6d6faa4a67b08440a92fca0456dfcc9b07
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:2e413a67133cf961e6ba4dd7ea4cfe6dc28886f394fb15e5912b6ed2c30d9aba

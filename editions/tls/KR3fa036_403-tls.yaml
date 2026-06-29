@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/403
+seq: 403
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每十五度當一時每三度四十五分當一刻表上列度下列分秒自上視之則以度化時化分自下視之則以度之分化時之分若秒以度之秒化時之秒若𢕄也升度時差表赤道每十五度當一時每三度四十五分當一刻黃赤同升則有加减之差有時黃度小於赤度湏用加差有時黃度大於赤度湏用减差如表酉宫十五度在赤道為三時在黃道止得二時五十分零六秒湏加九分五十四秒然後合於黃道之度又如丑宫十五度在赤道為七時在黃道已有七時零五分零九秒湏减去五分零九秒然後合於黃道之度前所列升度表是黃赤度分之差今用升度時差是以度分化時刻之差也
+  hash: sha256:d8faf5528096cb3fc9826e1204d1e0e7ef205d4080efee7bd4f04729daf0fea2
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:ae3f701f9fb69b959202c404cf3078011830b2e7b1ea9fe3304e5556f07eaadc

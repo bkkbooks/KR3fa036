@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/701
+seq: 701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之正弦相乘半徑除之也今以大距度與黃道度相加為總弧相减為較弧而各取其餘弦以相加减視總弧過象限則兩餘弦相加不過象限則相减而折半為距緯正弦又或起算二至有距至黃道度求距緯本以大距正弦與黃道度之餘弦相乘半徑除之也今以大距度與黃道度相加為總弧相减為較弧而各取其正弦以相加减折半得距緯正弦是以加减代乘除也設黃道距分三十度求距度
+  hash: sha256:abbb38a6de5cc36c4bd74fdc8ebc0c1d618f2976a556aa196be591bc3f0adb48
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:3549cacafc314d626e2f45951ce67eceb1e1bc44377294431b558c8e40d72d26

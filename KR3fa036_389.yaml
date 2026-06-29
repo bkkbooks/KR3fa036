@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/389
+seq: 389
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而比例等內外兩方直形有平立諸線不內不外兩方直形有平立諸線成大小四方錐亦皆為相似之底而比例等黃道在斜平面赤道在平面而其線互居者以方直形故也大距度在立面距緯度在斜立面而其線畢具者亦以方直形故也蓋形既方直則橫線直線兩兩相對而等法從二至起算以兩弧求一弧又或以三弧求一弧斜平面比例為黃道半徑與黃道正弦若距緯割線與赤道正弦又為黃道半徑與黃道切線若大距割線與赤道切線平面比例
+  hash: sha256:f3657c21e9251de756be05f3f7a70ec0b3f844fb494a80cec30c9c461f697db5
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:ed3c1deceae5a0f13b27e88dbe875070ca72c15fdcd96fe54f6f07d175a7c437

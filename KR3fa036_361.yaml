@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/361
+seq: 361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃道細分經度其疏密與赤道逈異而即可以赤道經度定之其法先以北極為心平分赤道經度次取距北極二十三度二十九分為黃極再加二十三度二十九分為黃道規樞運之成黃道規次從黃極向赤道上所平分之經度逐度作直線透出黃道規外即得黃道規上不平分之經度前用地心橫線作弧線得黃道全經圈此借赤道經度作直線亦可徑求黃道上之經度所得並同而法尤簡黃赤升度表
+  hash: sha256:3418b7f0005570ec4a7ce4b0df7267b0bd7a18bf23530acbf0ce9995a09c7643
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:c5a025164c9b22dc1b76b0b4e67f4bf086f29454168523d2c21b60990ff18426

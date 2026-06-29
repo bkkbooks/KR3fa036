@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/480
+seq: 480
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宿經度然後與各時正中之度相减餘為各時星偏東西度分也中星儀圖中星儀用動静二𥂟外𥂟為静𥂟𥂟周分列十二時九十六刻以象天常赤道內𥂟為動𥂟𥂟中位置星宿𥂟周分列三百六十度以象逰旋赤道用法先察日𨇠黃道經度變為赤道經度次測某星正中即將內𥂟某星對外𥂟之午次察赤道經度對於外𥂟何時何刻即得時刻或先有時刻將赤道經度對於外𥂟時刻次察外𥂟之午對於內𥂟何星即得中星𡻕乆有差則重推度分另置星𥂟用之赤道𡻕差表
+  hash: sha256:7cc17e521b8a70384c1065607b3b22cca35ea7fb48877dc625ef6a6176a961cb
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:8481aaedcc2f2b63ba9f293303ff640bf3b7d0d8145afd30fb13c2de504fc377

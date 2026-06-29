@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/419
+seq: 419
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 閭盧掩月圖影半徑最大者四十六分五十一秒月半徑最大者一十六分四十八秒相併得六十三分三十九秒以此數當距緯用最小黃白交角四度五十九分三十五秒求得距交白道度一十二度一十六分五十四秒為實望可食之限又以最大太陽均數一度五十六分一十三秒最大太隂均數七度三十九分三十三秒相併得九度三十五分四十六秒為兩實行相距最遠之度計月逐及于日太陽又行五十五分與太陽均數相加得一十五度九分為平望可食之限
+  hash: sha256:c67690c29bbfefd67f5d7f284094ef00b59083d8bd0e4358736d9e91c517265b
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:df70eb109864a6fb19e59cc6a1fc489acd3cc748dde1a1d8c3485b70e4b94d22

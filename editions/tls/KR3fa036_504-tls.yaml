@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/504
+seq: 504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之兩識分中之䖏即正南正北也假如秋分後春分前測得日出之處在𫑗正之南識之又測得日入之處在酉正之南識之兩識分中即正南之位春分後秋分前測得日出之䖏在𫑗正之北識之又測得日入之䖏在酉正之北識之兩識分中即正北之位也又或取表影識於圓圈之周亦如前法兩識分中但秋分後春分前得正北春分後秋分前得正南表影用其對照之位也每日日中測南北真線圖日出日入之時其影必長日中之時其影必短日出
+  hash: sha256:bd6db2db51b4b966be562746d8b92c1adc73c34b4509d40f0bc2ac8dee5a28c5
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:7c1d0fe49666322bbd295b9d2c7e38ad27d8691858d75a8bbca5c8211191c983

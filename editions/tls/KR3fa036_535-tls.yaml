@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/535
+seq: 535
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南地平上經緯虛線圖
+  hash: sha256:c510f7b091704997652113a9c44151570abe1fd5efbec896200cf744c0e2dcbf
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:791950fbe701922c0e03b5a323bcdb7db6fed1ee529677bc6d98ad9394369c79

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/576
+seq: 576
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下半徑之景自下而入而平面所得之影即太陽心之景矣或横置二小柱于壁上以柱端之横柱為勾所得壁上之影亦同以横柱著空上下受影故也赤道公晷圖赤道公晷作法先畫子午直線次畫赤道横線即春秋分日道次於赤道之南北依黃赤距度各作六節氣線次於子午線之東西依赤道經度作午前午後各時刻線用法隨䖏髙低不同若在北極之下則即以此晷為面南立晷若在赤道之下則即以此晷為平面晷今在𥂁城北極出地三十三度地方赤道髙
+  hash: sha256:e76c56448d55ce8c8dee5febb6014712f2047e70b8b97ff67c6b3f553cbaaa96
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:46fcb2375b12fbffcad1c973b6f419535b7791aa407e6686fba52dfa3ec92f09

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/631
+seq: 631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太隂火金水星地半徑差表太隂地半徑差分最大兩心差最小兩心差而以最髙宫度定之火星金星水星地半徑差分最髙最卑中距而以地平實髙定之測得髙度既减去䝉氣差矣又依地半徑差數加之始為實髙假如測得月火金星髙三十九度五十八分五十秒太隂若在最大兩心差時初宫初度則得實髙四十度五十三分四十四秒火星若在最髙則止得三十九度五十九分四十一秒金星若在最髙則又得四十度零一十秒視髙同䝉氣之差亦同而實髙不同者則以地半徑差各曜不同故也
+  hash: sha256:919c28f56718861f5515afc270cb7654d81c5a70879a0638b79485245850ad20
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:cd171843c85892efb19b3d9cdbada450ff1ce5bda58369f230d9c53ae4563bd9

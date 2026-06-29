@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/490
+seq: 490
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十六度二十二分大寒小雪南緯小滿大暑北緯各距二十度十一分小寒大雪南緯芒種小暑北緯各距二十二度三十八分冬至南緯夏至北緯各距二十三度二十九分今更推各節氣後距緯整度列表以備測量之用較為簡明其有零分者查黃赤距度表用之不拘時刻求北極出地圖測北極出地簡法不拘何時刻但有地平髙度反方位即可得之先用所測髙度及方位位日于𥂟次用本日距緯作緯圈次從日位作通弦切緯圈而過次
+  hash: sha256:e8fe27c353976dba6e8f25caa6be1cefbd9939162d7412cf2aebddb02ae6f087
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:aef86f574709bc345bf62c5af4124ac33cde7c0b588b795be99bd328c11d9b6d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/443
+seq: 443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為金星天又外一層為日天金水二天與日天相近日天去地心二萬九千一百四十四萬五三八餘里又外一層為火星天較日髙一倍半又外一層為木星天較日髙五倍又外一層為土星天較日髙十倍至於恆星天較日髙九千倍圖隘未能繪入宗動天太虛無踪其髙非人所能測也故亦缺之土木火金四天交角圖土星本天與黃道相交之角為二度三十一分木星本天與黃道相交之角為一度一十九分四十秒火
+  hash: sha256:0241182b35b401fbca388f00a09c44353c7f639c89f9650438ee3c38d90fc1d3
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:3364036971fe631d066e130f74cce6110aa1a7a54ef3a9c1252ba4352d2bd275

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/667
+seq: 667
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一八三五二以餘切除之得正切六六一八八五六三十三度三十分餘弦正割餘切正切互求三十三度三十分正切六六一八八五六餘切一五一八三五二兩線相乘以餘弦八三三八八五八除之得一一九九二四九為正割以正割一一九九二四九除之得八三三八八五八為餘弦又以正割餘弦兩線相乘以餘切除之得正切以正切除之亦得餘切也三十三度三十分弦割互求三十三度三十分餘弦八三三八八五八正割一一九九二四九相乘得一正弦五五一九三七餘割一八一一八一相乘亦得一
+  hash: sha256:3acd7f5773d85f3b8c9c0364f75a20a29cb92cede6a17348a8751d36da31a836
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:f60755aaee8fb924622a235ac87e792056288f618fa6a61e43eaca42ad4d36ea

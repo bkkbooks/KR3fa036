@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/533
+seq: 533
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南半周圖匾渾天儀之黃赤宫度恒星位置天下之所同也而其出入地平之線則因各䖏北極出地之髙下而遲早各異焉兹用北極出地三十三度求得地平全規而分為南北二圖對面合之即成地平𥂟之全圖圖上分列赤道時刻為匾渾天儀之静𥂟用法觀黃道度之出入地平即知本地太陽出入時刻及本地晝夜長短刻數觀黃道內外月五星度之出入地平及各恒星出入地平並可得月星各出入之時刻及正中偏東偏西之度無不覽圖而了然也北地平上經緯虛線圖
+  hash: sha256:6ec516bed4a12d341cd6c4f92d360e146c2e442d75dc63eba3eab4ac1fbbd93f
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:a4f11d5c177843ed01d10e16cde50bf5f50e70d7cb8af02a06268c60f50a734c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/556
+seq: 556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然其餘各度相距不同自初出地平至午正其度漸髙過正午至將入地平其度漸下以距午之度定之偏東偏西度等其髙下亦等既入地平之後未出地平之先赤道在地平之下其距地平之度與在地平之上亦等故一象限可當半周之用半周又可當全周之用循環推之可也
+  hash: sha256:9014a3c7ab15095c8f843cba457984d0b0afb5e2bf711588eea3c1af31249ebe
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:6c2eae093fa51a2b6afb4632753d067bda8666232d0879bfa1815d12b9d111bb

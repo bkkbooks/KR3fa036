@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/markers/494
+seq: 494
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa036_tls_001-p248.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup226, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fa036_tls_001-p248.s2}
+  - {type: line-break, offset: 20, content: '', id: KX_2_dup226, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fa036_tls_001-p248.s3}
+  - {type: line-break, offset: 40, content: '', id: KX_3_dup224, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR3fa036_tls_001-p248.s4}
+  - {type: line-break, offset: 60, content: '', id: KX_4_dup217, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: punctuation, offset: 71, content: ○, id: KR3fa036_tls_494-bkkpn1}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR3fa036_tls_001-p248.s5}
+  - {type: line-break, offset: 79, content: '', id: KX_5_dup212, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: punctuation, offset: 80, content: ○, id: KR3fa036_tls_494-bkkpn2}
+  - {type: punctuation, offset: 84, content: ○, id: KR3fa036_tls_494-bkkpn3}
+  - {type: 'tls:seg', offset: 97, content: '', id: KR3fa036_tls_001-p248.s6}
+  - {type: line-break, offset: 97, content: '', id: KX_6_dup210, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR3fa036_tls_001-p248.s7}
+  - {type: line-break, offset: 117, content: '', id: KX_7_dup209, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 137, content: '', id: KR3fa036_tls_001-p248.s8}
+  - {type: line-break, offset: 137, content: '', id: KX_8_dup213, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 157, content: '', id: KR3fa036_tls_001-p248.s9}
+  - {type: line-break, offset: 157, content: '', id: KX_9_dup214, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR3fa036_tls_001-p248.s10}
+  - {type: line-break, offset: 177, content: '', id: KX_10_dup166, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR3fa036_tls_001-p248.s12}
+  - {type: line-break, offset: 197, content: '', id: KX_12_dup216, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 217, content: '', id: KR3fa036_tls_001-p248.s13}
+  - {type: line-break, offset: 217, content: '', id: KX_13_dup212, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3fa036_tls_001-p248.s14}
+  - {type: line-break, offset: 237, content: '', id: KX_14_dup209, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR3fa036_tls_001-p248.s15}
+  - {type: line-break, offset: 257, content: '', id: KX_15_dup206, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 277, content: '', id: KR3fa036_tls_001-p248.s16}
+  - {type: line-break, offset: 277, content: '', id: KX_16_dup208, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR3fa036_tls_001-p248.s17}
+  - {type: line-break, offset: 297, content: '', id: KX_17_dup210, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 317, content: '', id: KR3fa036_tls_001-p248.s18}
+  - {type: line-break, offset: 317, content: '', id: KX_18_dup213, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR3fa036_tls_001-p248.s19}
+  - {type: line-break, offset: 337, content: '', id: KX_19_dup213, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 357, content: '', id: KR3fa036_tls_001-p248.s20}
+  - {type: line-break, offset: 357, content: '', id: KX_20_dup157, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  back: []
+hash: sha256:8e43407d7441e7b0ae440d847e376987d3fbc484b4ff0efe0fee24ee6bbe5a3c

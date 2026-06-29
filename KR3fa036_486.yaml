@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/486
+seq: 486
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 春分日𨇠戌宫初度秋分日𨇠辰宫初度正當黃赤交㸃而無距緯其時日之髙度即赤道之髙度也以赤道之髙度與九十度相减得赤道距天頂之度亦即北極出地之度也假如鹽城春分正午測得日髙五十七度即赤道髙五十七度也與九十度相减得赤道距天頂三十三度即北極出地亦三十三度也各節氣測北極髙度圖春秋分無距緯即以日髙為赤道之髙其餘節氣則加减其距緯以得赤道之髙春分後秋分前距緯在北用减秋分後春分前距緯在南用加然後與九十
+  hash: sha256:cd7a6400d049b43548137bd457c80c172676c5c37c1a21cff60b331c39e98dc1
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:c3944cbeff442a127796cdc1c49d8389c1deb11262150b3e0734a88c8375f8ce

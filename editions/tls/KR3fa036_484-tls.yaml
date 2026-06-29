@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/484
+seq: 484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地平圖説黃赤經緯之度天下之所同也地平經緯之度一方之所獨也凡人所居之地南北相距二百里即差一度東西且有不二百里而差一度者此天頂所以隨地而變也天頂變則地平變地平變則髙下方位俱變而所見黃赤之經緯與凡日月之升降交食之淺深五星之伏見恒星之中偏亦無一不變矣故天學家重之作地平圖説春秋分測北極髙度圖
+  hash: sha256:2289d00bd01526b97ef22eb15d7075cf500a18b88d2937f3c6de109957a4b9f5
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:c888e81e3cd5c63d5e50578d7d0c329746ea8952f60487dd093e2d01b28d9227

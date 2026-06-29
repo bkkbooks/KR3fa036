@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/502
+seq: 502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自朝至夕不拘何時何刻但記左右兩處即得東西直線就東西直線上作十字線即南北真線也如圖虛圖線為赤道斜𠋣於天頂之南中為直立之表上對天頂斜弦為太陽下照之影平横線為影之所至不拘横線何處但作相交之十字線即得南北向也各節氣朝夕測南北真線圖春秋分之日出日入時刻方位合一天下所同其餘節氣則時刻與方位不合以赤道斜𠋣不與地平同度也故不能以時刻定方位而可以方位求方位其法用儀器測得日出之處識之測得日入之處又識
+  hash: sha256:f56349acf59e51ef29c16a1e8671d596a0cc8355056d416af8d17fca51dadf44
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:9deb5b2c6b7c2d870130c53225215ed8fa926f22b99a3274a56b417ad6992481

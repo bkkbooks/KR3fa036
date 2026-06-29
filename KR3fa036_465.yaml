@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/465
+seq: 465
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水星距限表距交度黃北五五五距限一一二二三黃南五五五距限一一二二三順水星距限表按正交中交分順逆列之初宫至五宫為正交後列於上六宫至十一宫為中交後列於下水星距交實行在上六宫者用順度在下六宫者用逆度水星次輪面與黃道相交之角南北不同故表分南北兩限依星在黃道之南北取用水星距黃道表水星距黃道表按次輪兩交前後分順逆列之兩交後之各宫列於上兩交前之各宫列於下表分二十限依實交角相近者取用蓋水星次輪面與黃道相
+  hash: sha256:a6361644165ccbfb2e4ac7db0b459216d08b6d7353852b371cd63c87abf05dcc
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:b8632cb4710f410e52757b94852dd794827f2ef5816303b1f6de2e161fd14d23

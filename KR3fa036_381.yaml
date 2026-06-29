@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/381
+seq: 381
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平儀節氣時刻圖平儀節氣時刻即立圓旁視圖之經緯度也旁視圖俱用整度以著天體此圖緯度用黃赤距緯為節氣線為周歲之日道經度以三度四十五分為一刻為時刻線為周日日行之界兩端為南極北極中心為渾圓心為地心為二分交角為𫑗酉中其過心橫線為極線為𫑗酉規線其過心直線為赤道線為二分之日道外大圈分三百六十度為周天圈為子午規作節氣線用節氣線尺作疏密各直線于赤道之兩旁作時刻線用正弦分時尺作濶狹各弧線于𫑗酉之上下此圖成而測量之用無窮矣用天周求歲周圖
+  hash: sha256:a18e3112b57bc07c077cf4eeb9df148acb5a92cea3183857697122b0ee1e4ac0
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:e7be9ded9e70e69d712e20adec028807691fc786e7018adf039fdaf0c6c1094d

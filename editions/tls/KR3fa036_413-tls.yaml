@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/413
+seq: 413
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃白距度有大小之異表中左列距度分秒是最小距度之數右列較分秒是最大距度多於最小距度之數其在大小之間者用中比例法求之太隂距交在上六宫用順度在下六宫用逆度以距交之宫對距交之度其縱横相遇之數即為所求之距度也表只列整度其分秒亦用中比例法求之朔望策表太陽每日平行五十九分八秒一十九𢕄四十四纎四十三忽二十二芒與太隂每日平行一十三度
+  hash: sha256:086fe763f8c2a0d82ed4ada4aaad35d7b038557ffaa8c852ae16afc23592a5dd
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:3b9320cfbc36fa15a4ef52dd4bb93e7a3405e0132897fc7d6d6d08b8f97031fc

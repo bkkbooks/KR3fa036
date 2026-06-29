@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/594
+seq: 594
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太隂平儀髙弧定時圖太隂南行北行其南緯北緯既分兩種似不可以一圖𥁞之而惟平儀之法一圖可當兩圖如圖上為天頂下為地底中為地平南為南緯北為北緯為南行兩種赤緯若倒用之以天頂作地底以地底作天頂以南緯作北緯以北緯作南緯又為北行兩種赤緯既隨時測得髙弧則以赤緯求赤經而得太隂所臨
+  hash: sha256:27f7ef17d8dae66a9d1eac1a3bd4cf6d3a70b61eb20e5917fd225b2f368fbcf3
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:9fe1dc373bd1334a9d007e35722b631cddd87753b411fd8c659e8003809070f0

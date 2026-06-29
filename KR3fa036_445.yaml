@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/445
+seq: 445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星本天與黃道相交之角為一度五十分金星次輪面交黃道之角為三度二十九分其交角之數各天不同相交之㸃亦各天不同本宜分列四圖兹從簡易並繪一圖𦕬明其數亦以各天俱有正交之行又隨時不同不能膠於一定故略於交㸃之度分耳水星天交角圖水星次輪心在正交當黃道北之角為三度零五分一十秒當黃道南之角為六度三十一分零二秒次輪心在中交當黃道北之角為六度一十六分五十
+  hash: sha256:51b49c91b9c6a4b8d73af04709302c137d7c6e2f2f30c12c95d82a58b7304b89
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:330edba26f5a48055b4037c98a9a68f76322ed585c8e4866541e097b09d943d5

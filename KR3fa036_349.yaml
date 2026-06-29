@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/349
+seq: 349
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平儀上直線皆緯度也而線有大小者則經度也是故直線為緯度而即能載經度其距等圈線所載之經度皆與赤道大圈線所載之經度等即近極最小之緯圈線亦然第赤道大圈線之徑與平圓全徑等故其所載之經度一一與外周相應若距等圈線之徑濶狹不等不能與大圈為比例即不能與外周相應然則將何法以分之曰以距等之半徑為心即以距等之半徑為度而運規於大圓之外復作距等半圓於半圓上勻分半周天度即距等所載之經度一
+  hash: sha256:9ebacf354658cc5c60a47edf6741fd08246b33a04fb7d446aa6c5a8c96502d3d
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:b24a4f88322929cf048f455da4717cd0002880d90f5c5665e9e00a508cb3ae13

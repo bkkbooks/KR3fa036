@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/739
+seq: 739
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有赤道經緯求髙弧諸曜各有赤道經緯及地平上緯度以太陽言之時刻即赤道經度距緯即赤道緯度髙弧即地平上之緯度也前求出入昏旦時刻已推緯度上下之界及地平下十八度之限矣今求髙弧春秋分無距緯但以北極距天頂正弦乘時刻餘弦退七位即髙弧其餘各節須先求甲數乙數以甲數與時刻餘弦相乘退七位得中數以中數與乙數相加减秋分至春分用减春分至秋分用加加减得地平緯度之正弦即時刻髙弧也春秋分求地平緯設春秋分本日已正初刻求地平上緯度法以北極距天頂五十七度之正弦八三八六七六與赤經距午三十度之餘弦八六六二五四相乘得七二
+  hash: sha256:d974bf094687f67afaec2aeda63fa5560d4528e4b4494bb6007af4f1c89c10c7
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:b060bc3f2dfb01694b1b2c184e15b1e21be04de52649dd77db19dab6fb441f26

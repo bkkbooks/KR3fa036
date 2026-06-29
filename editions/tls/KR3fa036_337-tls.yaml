@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/337
+seq: 337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡圓周平分三百六十經度必用分圓線分之分圓線即各弧之通弦亦曰分弦線亦曰分圈作分圓線法查八線表正弦數倍之為倍度之通弦假如求六十度通弦即以三十度之弦五倍之得一即六十度之通弦他皆若是或用量法作象限弧勻分九十度次從初度向九十度作斜弦次從初度作直線至各度移入斜弦上識其號即成分圓線也用法有圓徑求弧度以半徑為本線六十度之底定尺次逐度向圓周識之即得圓周各度象限度圖
+  hash: sha256:d4cb712f12ebe62db614bf5ee6a9c21b76f9465e0aabcddf889d6aeff6d99e66
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:d94d687e4e99e9535a3ee08d0726e6a5a8caf3e92510410a831eadfecd665139

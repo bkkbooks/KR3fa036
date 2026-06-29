@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/693
+seq: 693
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤道經緯相求有赤道有大距求距度法為半徑與大距正切若赤道正弦與距度正切有大距有距度求赤道法為大距正弦與大距餘弦若距度正切與赤道正弦又為大距正切與半徑若距度正切與赤道正弦又為半徑與大距餘切若距度正切與赤道正弦有赤道有距度求大距法為距度正切與赤道正弦若半徑與大距餘切又為半徑與赤道正弦若距度餘切與大距餘切又為赤道正弦與距度正切若半徑與大距正切又為半徑與距度正切若赤道餘割與大距正切今設以赤道十五度各舉其例以明之黃經距緯相求
+  hash: sha256:a850faf5e8b945f2fe472e5ee3a4ee6094f24337d2ba4d2fe94cef8a30e037d8
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:c19e6cb7016c3952060041d97f634ffd3bdfe0b61b60e79c2be129f89e36c792

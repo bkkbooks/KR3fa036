@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/743
+seq: 743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六八七八四為中數在立春節宜以中數與乙數相减餘五四三四一六四為地平上緯度正弦查表得三十二度五十四分五十九秒二十四𢕄三十纎有亦道緯地平緯求赤道經設立春赤道南緯十六度二十一分五十七秒地平上緯三十二度五十四分五十九秒轉求赤經則以甲數為一率中數為二率半徑為三率求得四率為赤經正弦簡法即以甲數八四六八九四除中數六九六八七八四除畢進七位即得八六六二五四為赤經距午餘弦檢表得距午三十度有赤道緯地平緯求地平經
+  hash: sha256:c65dcdd70ccab5b5379947cd6e9b2101203530077958327dd16227db9c17097b
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:5ad7982f490929aa442d34c144e14a3805abba505af6c6c9ee9903ff978d77fa

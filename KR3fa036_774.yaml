@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/774
+seq: 774
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正弦檢表得南緯一度三十一分四十二秒
+  hash: sha256:e0ec712da00117d3ba3d8ba7ab8e318913f6ba14f214019f5c2a3916d07a0c95
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:7249d7cdd923c7193e88eb2bf01e9fb45c51b23dc8d8f7a739053cef68f9d55b

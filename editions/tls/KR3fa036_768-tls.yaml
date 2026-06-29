@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/768
+seq: 768
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視緯以星距地心線八九六七三六為一率星距黃道線三八七七二為二率半徑一千萬為三率求得四率四三三一一三為視緯之正弦檢表得北緯二度二十八分五十六秒
+  hash: sha256:b26e49c41ff653c9868eb49ffdd9cfcb1db7f433f3960f14d29c456f4d08f88d
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:3c650fce271fbedf797872b53b91309f4476e9d1d18beebf66a705f9157cd10a

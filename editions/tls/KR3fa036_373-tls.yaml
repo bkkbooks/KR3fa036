@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/373
+seq: 373
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其度不可平分於是設想其間另作一均輪于本圈之界以便推算其法以二十三度二十九分之正弦為半徑作圓平分三百六十度每十五度為一節又以半徑為距度尺細分二十三度二十九分用法將圓周節氣線上下逐度相對以細線牽切距度尺上視尺上所切之度即得各節逐日距度也節氣線尺
+  hash: sha256:c6e7148af8238aa26a35051844d606257e50ff00893877933a64f3a4b44f6f0e
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:57b4ea0a21955827dc5d2b87a63ec58dd47e185f6b46390656b5341103289585

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/365
+seq: 365
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十一分大寒小雪道距赤道南二十度十一分芒種小暑道距赤道北二十二度三十八分小寒大雪道距赤道南二十二度三十八分夏至道距赤道北二十三度二十九分冬至道距赤道南二十三度二十九分黃赤經緯交加圖黃道有經緯赤道亦有經緯兩道之經度皆與本道十字相交引而成大圈其圈相交相會必皆會于其極兩道之緯圈皆與本道平行而逐度漸小以至于
+  hash: sha256:fba98146a8c4688c00c4931f5782fac677574a21ddc477d3e03d6cf01df4cea1
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:317e837abd680af840931a1b61847471b7d4c0b7596652db3b4743cfc7bc8aac

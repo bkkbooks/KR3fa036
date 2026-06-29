@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/542
+seq: 542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 線過午即取為界抵子正㸃極處折半求樞運之得一七宫規若二八宫求樞在已推得𥂁城二八宫極髙二十九度二十一分即從赤道中中上數二十九度二十一分作斜線過巳亦取為界抵亥正㸃極䖏折半求樞運之得二八宫規其餘各宫求樞運規俱仁此法推之北極離十二宫表北極出地之髙下以一七宫之規線定之四十宫之直線則天下之所同也而三九五十一宫二八六十二宫又因一七宫之髙下而各異其髙下者也今用宫北極出地度度分度分度度分度分
+  hash: sha256:81ae76480ab525157c2bc421aad28aad97122a0fa5d7ce04e849f197e26add01
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:b64bf663f3659cb028276e3e1fb49b3f311efa2b85359cd001520212011f04b7

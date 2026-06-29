@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/661
+seq: 661
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法以半徑為中率以正切六四九四七六為首率除之得餘切一五三九八六五如轉以餘切一五三九八六五除半徑亦得正切六四九四七六設弧三十四度有割切求弦法以正切六切四五八五與半徑一千萬相乘以正割一二六二一八除之得數五五九一九二九即是正弦又以餘切一四八二五六一與半徑一千萬相乘以餘割一七八八二九一六除之得數八二九三七六即是餘弦有弦切求割法以正切與半徑相乘得六七四五八五以正弦五五九一九二九除之得正割一二六二一八以餘切與半徑相乘得一四八二
+  hash: sha256:dc9ffb61a04830c243b1ecbb23b1638d91f73a6c9930aaa40e76e1d426cf6aa2
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:5efc36d2df2cc3b703a075c603b8f18aefceca82a38219868ad4e1cacc33833c

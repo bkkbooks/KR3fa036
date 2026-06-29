@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/431
+seq: 431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日天撱圓圖太陽最髙距地心一一六九最卑距地心九八三一與半徑一相减得一六九為兩心差倍之得三三八為盈縮差刻白爾用兩心差作撱圓均分撱圓面為三百六十分每分之積皆為一度每一度為六十分太陽每日右旋當每一度積之五十九分八一九四四四三二二三是為平行在最卑半周地心至撱圓界之線短則角度必𡩖是為行盈在最髙半周地心至撱圓界之線長則角度必狹是為行縮故太
+  hash: sha256:69cf4f6f1fbe400339227848db071338aa92fba989c90f746335b7fb4cc47faf
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:dc8b9336302da115a0d0feabeae283af7fc92550520f8e31cf20411cf298ea1e

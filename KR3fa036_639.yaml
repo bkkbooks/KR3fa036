@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/639
+seq: 639
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一三一八六二五四一八二十億之周率也凡五一一三一五七乘除俱至單位止今二二三四七設十位之徑須乘除一二十二次始至單位若六二八三一八五二九九位數多則所用乘除之數必須按位增加也求弧線置全周密率為實以三百六十度除之得每度之弧線屢加之至十度又置一度之弧線為實以六十分除之得一分之弧線屢加之至十分
+  hash: sha256:7f855e926c0ad0a72784b04e6cfa416ab7f532276691675ea405a2245e33078d
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:4143a2808a57162aa86caf1a35dcd59bca5c899f58b93b8ed5e4a23dbc7ae060

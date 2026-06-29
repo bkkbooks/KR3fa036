@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/451
+seq: 451
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為之土星正交六宫二十三度零四十六秒四十六𢕄木星正交六宫七度五十四分一十四秒二十四𢕄火星正交四宫一十九度五十八分零六秒零一𢕄金星正交五宫一十八度五十一分一十三秒水星正交一十一宫七度一十二分五十八秒一十三𢕄以後每年用加法土星加四十一秒五十三𢕄木
+  hash: sha256:d1d07421c65544b59189b216a13c7dc326a36086d09a40d9a6cb942a9b9d45bb
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:2c76e7e4d79e488358121ed15acb13231a969c1cd355746d669f3c248e2a0bba

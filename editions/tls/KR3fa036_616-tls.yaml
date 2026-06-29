@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/616
+seq: 616
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太陽赤道經度求得地平緯度即知五星在地平上之伏見也用距等圈弧矢求列宿地平度圖列宿赤道經緯與黃道經緯不同而有黃道經緯可以求赤道經緯地平經緯又與赤道經緯不同而有赤道經緯亦可以求地平經緯其法依本地北極髙度安置北極赤道即得赤道距天頂度安置天頂地平各作十字經緯線求列宿度依赤道南北緯度作
+  hash: sha256:a04a49b9227decbe9a909fa25c2c9411510d4621f242eb39c01659f1eb6d0506
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:ec51857b582fcf209eeece06c5d91d48de1c0ab1caabf0f5d620a7cd14d29660

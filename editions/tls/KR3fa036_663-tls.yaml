@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/663
+seq: 663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五六一以餘弦八二九三七六除之得餘割一七八八二九一六先除後乘亦同有弦割求切法以正弦正割相乘得六七四五八五退七位為正切以餘弦餘割相乘得一四八二五六一退七位為餘切退七位即以半徑除之與進七位即以半徑乘之者同一法也設弧三十四度割切相求設弧三十四度有割線求切線以正割除餘割得一七八八二九一六進七位為餘切以餘割除正割得六七四五八五進七位為正切又如有餘切餘割求正割以餘切除餘割得一二六二一八進七位為正割有正切餘割求正割以正切餘割相乘得一二六二一八退七位
+  hash: sha256:7f4241fe21a45acc6e68a021bd102e9ecc469ed451711d0aa38779b2fa0cf0ea
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:e864242242d52d182b1dc72d24028c515e359896e6face5cd349a42ca5ebe04a

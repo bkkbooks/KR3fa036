@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/546
+seq: 546
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 規出東地平之度為第一宫初界入西地平之度為第七宫初界上當天頂之度為第十宫初界下當地底之度為第四宫初界此四宫者為樞舍又為角舍著效盛於他宫又察黃道規所當各宫之度得各宫初界二八五十一為随舍三九六十二為倒舍六八兩宫為最劣之舍每宫初界又名為頂十二宫度既定再用諸曜經緯㸃於黃道規之內外而諸曜入宫宛然一當時之天象而窮理之家借以觀變于未然恃有此也地平赤道旁視內面圖
+  hash: sha256:0bfbad725a526fc693bd5f971c95dcbb879e92a44f99d3fc683d175a660353cc
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:1ecf8971eca5f9415231446ddf5a7afce2d118a19bac16889c500a246de0b176

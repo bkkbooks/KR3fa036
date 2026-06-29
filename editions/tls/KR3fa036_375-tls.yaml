@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/375
+seq: 375
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 作平儀及日晷必分節氣各線其法用正弦度識於黃道之上或直用距度識於子午規之上並得節氣各線今作節氣線尺尤為簡便作節氣線法查距度表從樞心逐節識之或用均輪疎密之線量取亦得用法以二十三度二十九分為本線之底定尺逐節向子午規識之即得節氣各線其尺分六分得節氣分十八分得七十二候分九十分得周𡻕逐日度分各隨儀器之大小用之黃道節氣斜視圖
+  hash: sha256:eef37062eaca1c37368fe571fe6be32afd2fec9dcfeb9e194980e74eb26c5fbb
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:2edd4b56b6ad9a1d3b4f5617116db5b8ba175acc611bba171194e3dfc43616af

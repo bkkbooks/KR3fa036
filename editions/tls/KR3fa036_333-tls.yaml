@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/333
+seq: 333
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 赤道之角經緯相交必過其極則其交必成十字而常為正角也盖渾員上有垜壘諸綫從旁側睨之庶幾可見然實多借象而不能按度肖形其在天之實度非算不知算法一率半徑二率大距正弦三率黃經正弦四率距緯正弦一率大距正弦二率半徑三率距緯正弦四率黃經正弦一率半徑二率大距餘弦三率黃經切線四率赤經切線一率半徑二率大距割線三率赤經切線四率黃經切綫知此則黃赤經緯可以互求矣平圓正視圖
+  hash: sha256:c267b08b0b7fa1602fcf4405d777bcc8ecbd690ce5bce042310913d750244f38
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:4ff88a7e611c4c1adcb4df01bda007eb031c79add8b8f1cbecaa361cf05e2383

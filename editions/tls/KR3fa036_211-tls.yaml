@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/211
+seq: 211
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丁亦為小分矣若自甲作甲戊必與己乙甲乙等而其形正方也
+  hash: sha256:c17e995a80beaf2b7a8ef974c05d938767c94f95c828d5f1f43cea471445eddf
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:26c4017d9d7be8d980696005626033967ad976abbdf55c0b65199945dd6aeee9

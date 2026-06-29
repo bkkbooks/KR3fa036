@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/677
+seq: 677
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 設以三十度之正切餘切與五十度互求三十度之正切五七七三五三餘切一七三二五八與五十度之正切餘切正弦餘割餘弦正割皆可互求任以一弧之兩線相乘以一弧之一線除之即得一弧之另一線也八線無非比例八線中之妙蘊祗用比例推之則舉一可以反三正弦與餘割餘弦與正割正切與餘切相乘得數皆同前己詳之又以正切除正弦以半徑除餘弦以正割除半徑以餘割除餘切得數並同又以正弦除正切以餘弦除半徑以半徑除正割以餘切除餘割得數並同又以餘弦除正弦以半徑除正切以正割除餘弦以餘切除半徑以餘割除正割得數並同又以正
+  hash: sha256:88f53888aa46554f97cbc04105a49ca4bb7de8f36d339c568ade30e608914560
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:dcdf686ad3b772b181951bb450ccf34b5d4df775ccaaca701ebc3b1674ccec1f

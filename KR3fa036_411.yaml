@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/411
+seq: 411
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 最小距限圖古法黃白大距不逾六度弦望無殊西法交角有大小朔望最小兩弦最大今測日在交㸃交角大前後皆小朔望尤小日在大距交角小前後皆大兩弦尤大最大則五度一十七分二十秒最小則四度五十九分三十五秒於是各以其度為半徑作圓平分三百六十度又以半徑為距度尺細分距度用法將圓周度分上下作線相對牽切距度尺上視尺上所切之度即得各宫各度之距度也黃赤距度恆起春分黃白距度則從正交起數以距交之遠近分其宫度正交移則宫度亦移而緯度之大小隨之黃白距度表
+  hash: sha256:fe90587512a8150a1cd95a88a057ae79e260489b178e5db02e4b3375054ed58a
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:01de6fa3371e7b6d560b89aac98d39047a510163f22ff0f6b1434dce05552b9f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa036/tls/v1/juan/548
+seq: 548
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地平經緯之上加赤道經緯用切線寫之其度中密外疎法從地平上數本地北極出地之度又下數本地南極入地之度得南北二極之軸軸過地心即𫑗正酉正從軸過地心之䖏作十字線得赤道分之得赤道經度又從赤道之南北數其緯度作十字線得赤道緯度與地平之經緯互推之而有赤道可以知地平有地平亦可以知赤道矣地平赤道旁視外面圖北極為赤道之極天頂為地平之極在𥂁城則相差五十七度而經緯之差悉由此生以赤道加於地平
+  hash: sha256:c3fe3b23a51918b675b8b84feb23739b4c66d7f497e279bdb520f657c8031304
+metadata:
+  title: 天學闡微
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa036.xml
+hash: sha256:74df6bc7c2c3f1bc4c503b4050a542ab28da13fefb8609657c8693d35b918979
