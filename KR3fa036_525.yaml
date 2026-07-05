@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 十度今就鹽城北極出地三十三度為圖其餘各處悉依此法為之地平橫偃經度圖
-  hash: sha256:f5fed6ec79cdf0458017bbecdd3278bac103feed66ea2d6272fad2783b142aca
+  text: 十度今就𥂁城北極出地三十三度為圖其餘各處悉依此法為之地平横偃經度圖
+  hash: sha256:37e2436ecbea3bfcf51cb81b756a87a0b4aa1a41602587a02a0fda46d06da5a1
 metadata:
   title: 天學闡微
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa036.xml
-hash: sha256:cd96a5e0d7d3ba8a8d931cee84378fdd5d33505cee39c8c48d0d9d5d2b4f13f9
+hash: sha256:51225981aeb9a8e5b080f9e533b24d9cec52e5c1cc6ba6b3106567c6e26b13bf

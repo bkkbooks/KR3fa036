@@ -13,7 +13,6 @@ markers:
   - {type: line-break, offset: 36, content: '', id: KX_4_dup262, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3fa036_tls_001-p317.s5}
   - {type: line-break, offset: 48, content: '', id: KX_5_dup255, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 59, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fa036_tls_001-p317.s6}
   - {type: line-break, offset: 60, content: '', id: KX_6_dup254, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 72, content: '', id: KR3fa036_tls_001-p317.s7}
@@ -30,7 +29,6 @@ markers:
   - {type: line-break, offset: 122, content: '', id: KX_17_dup255, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 142, content: '', id: KR3fa036_tls_001-p317.s18}
   - {type: line-break, offset: 142, content: '', id: KX_18_dup258, _xml_error: duplicate-id, _xml_original_id: KX_18}
-  - {type: substitution, offset: 147, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 162, content: '', id: KR3fa036_tls_001-p317.s19}
   - {type: line-break, offset: 162, content: '', id: KX_19_dup257, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 182, content: '', id: KR3fa036_tls_001-p317.s20}
@@ -38,4 +36,4 @@ markers:
   - {type: 'tls:seg', offset: 202, content: '', id: KR3fa036_tls_001-p317.s21}
   - {type: line-break, offset: 202, content: '', id: KX_21_dup199, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:1f67fc24086235624e2da10e637a6824ff2901f428f683e36bed2db8db69cd66
+hash: sha256:f52a769eea2fd5578749d6628da3464273d76d053346f61b67c9617fa4448b9c

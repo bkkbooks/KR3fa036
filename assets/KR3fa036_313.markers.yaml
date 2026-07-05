@@ -18,7 +18,6 @@ markers:
   - {type: punctuation, offset: 12, content: ○, id: KR3fa036_tls_313-bkkpn9}
   - {type: punctuation, offset: 12, content: ○, id: KR3fa036_tls_313-bkkpn10}
   - {type: punctuation, offset: 12, content: ○, id: KR3fa036_tls_313-bkkpn11}
-  - {type: substitution, offset: 17, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
   - {type: punctuation, offset: 27, content: ○, id: KR3fa036_tls_313-bkkpn12}
   - {type: punctuation, offset: 27, content: ○, id: KR3fa036_tls_313-bkkpn13}
   - {type: 'tls:seg', offset: 27, content: '', id: KR3fa036_tls_001-p157.s3}
@@ -27,7 +26,6 @@ markers:
   - {type: line-break, offset: 33, content: '', id: KX_4_dup154, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 39, content: '', id: KR3fa036_tls_001-p157.s5}
   - {type: line-break, offset: 39, content: '', id: KX_5_dup154, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 54, original: 逓, replacement: 遞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3630}}
   - {type: 'tls:seg', offset: 59, content: '', id: KR3fa036_tls_001-p157.s6}
   - {type: line-break, offset: 59, content: '', id: KX_6_dup154, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 79, content: '', id: KR3fa036_tls_001-p157.s7}
@@ -44,10 +42,8 @@ markers:
   - {type: line-break, offset: 179, content: '', id: KX_13_dup149, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 199, content: '', id: KR3fa036_tls_001-p157.s14}
   - {type: line-break, offset: 199, content: '', id: KX_14_dup150, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 211, original: 逓, replacement: 遞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3630}}
   - {type: 'tls:seg', offset: 219, content: '', id: KR3fa036_tls_001-p157.s15}
   - {type: line-break, offset: 219, content: '', id: KX_15_dup149, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 238, original: 逓, replacement: 遞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3630}}
   - {type: 'tls:seg', offset: 239, content: '', id: KR3fa036_tls_001-p157.s16}
   - {type: line-break, offset: 239, content: '', id: KX_16_dup149, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 259, content: '', id: KR3fa036_tls_001-p157.s17}
@@ -56,10 +52,9 @@ markers:
   - {type: line-break, offset: 279, content: '', id: KX_18_dup151, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg', offset: 299, content: '', id: KR3fa036_tls_001-p157.s19}
   - {type: line-break, offset: 299, content: '', id: KX_19_dup150, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 314, original: 㨗, replacement: 捷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1049}}
   - {type: 'tls:seg', offset: 319, content: '', id: KR3fa036_tls_001-p157.s20}
   - {type: line-break, offset: 319, content: '', id: KX_20_dup150, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 339, content: '', id: KR3fa036_tls_001-p157.s21}
   - {type: line-break, offset: 339, content: '', id: KX_21_dup149, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:707ae2bf7da16dcbbb8b3001ebc310a5a4ae05b0bd5c273d2e0180d2712b19c5
+hash: sha256:93db2729281e1b1bc4b1a664aba7cde25480b345f7ba1290b8271f002b4d8923

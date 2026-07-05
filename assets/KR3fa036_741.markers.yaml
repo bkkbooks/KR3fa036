@@ -21,7 +21,6 @@ markers:
   - {type: line-break, offset: 64, content: '', id: KX_13_dup292, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3fa036_tls_001-p372.s14}
   - {type: line-break, offset: 84, content: '', id: KX_14_dup293, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 103, original: 縂, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3613}}
   - {type: 'tls:seg', offset: 104, content: '', id: KR3fa036_tls_001-p372.s15}
   - {type: line-break, offset: 104, content: '', id: KX_15_dup290, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 124, content: '', id: KR3fa036_tls_001-p372.s16}
@@ -33,7 +32,6 @@ markers:
   - {type: 'tls:seg', offset: 162, content: '', id: KR3fa036_tls_001-p372.s18}
   - {type: line-break, offset: 162, content: '', id: KX_18_dup297, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: punctuation, offset: 164, content: ○, id: KR3fa036_tls_741-bkkpn7}
-  - {type: substitution, offset: 176, original: 縂, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3613}}
   - {type: 'tls:seg', offset: 181, content: '', id: KR3fa036_tls_001-p372.s19}
   - {type: line-break, offset: 181, content: '', id: KX_19_dup297, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 201, content: '', id: KR3fa036_tls_001-p372.s20}
@@ -42,4 +40,4 @@ markers:
   - {type: line-break, offset: 221, content: '', id: KX_21_dup238, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: punctuation, offset: 223, content: ○, id: KR3fa036_tls_741-bkkpn8}
   back: []
-hash: sha256:190f5354fd198feaecebc2967b6a5b391b24aacbf6c56508f7cfedb9f4ac186d
+hash: sha256:012a6c10863831ab9049b4ee2041f3ca7c72bb1255d2529bcf57170daff8c679

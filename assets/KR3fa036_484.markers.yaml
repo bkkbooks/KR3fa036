@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fa036_tls_001-p243.s2}
   - {type: line-break, offset: 0, content: '', id: KX_2_dup221, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 3, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 4, content: '', id: KR3fa036_tls_001-p243.s3}
   - {type: line-break, offset: 4, content: '', id: KX_3_dup219, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3fa036_tls_001-p243.s4}
@@ -18,13 +17,11 @@ markers:
   - {type: line-break, offset: 76, content: '', id: KX_7_dup204, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3fa036_tls_001-p243.s8}
   - {type: line-break, offset: 94, content: '', id: KX_8_dup208, _xml_error: duplicate-id, _xml_original_id: KX_8}
-  - {type: substitution, offset: 110, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 112, content: '', id: KR3fa036_tls_001-p243.s9}
   - {type: line-break, offset: 112, content: '', id: KX_9_dup209, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 130, content: '', id: KR3fa036_tls_001-p243.s10}
   - {type: line-break, offset: 130, content: '', id: KX_10_dup161, _xml_error: duplicate-id, _xml_original_id: KX_10}
-  - {type: substitution, offset: 131, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 132, content: '', id: KR3fa036_tls_001-p243.s12}
   - {type: line-break, offset: 132, content: '', id: KX_12_dup215, _xml_error: duplicate-id, _xml_original_id: KX_12}
   back: []
-hash: sha256:52f50cd0d17cc50ee2d163b875416307643f5d721ceede51e2aa9aba0ca7c76f
+hash: sha256:d55b3da011ad37fe62b6604117e56b775425fea2c4f08b5f9546df279528dee2

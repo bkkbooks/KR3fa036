@@ -7,7 +7,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup30, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fa036_tls_001-p32.s2}
   - {type: line-break, offset: 20, content: '', id: KX_2_dup32, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 30, original: 随, replacement: 隨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1166}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fa036_tls_001-p32.s3}
   - {type: line-break, offset: 40, content: '', id: KX_3_dup32, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fa036_tls_001-p32.s4}
@@ -22,7 +21,6 @@ markers:
   - {type: line-break, offset: 140, content: '', id: KX_8_dup31, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3fa036_tls_001-p32.s9}
   - {type: line-break, offset: 160, content: '', id: KX_9_dup31, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 164, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
   - {type: 'tls:seg', offset: 180, content: '', id: KR3fa036_tls_001-p32.s10}
   - {type: line-break, offset: 180, content: '', id: KX_10_dup31, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fa036_tls_001-p32.s12}
@@ -46,4 +44,4 @@ markers:
   - {type: 'tls:seg', offset: 362, content: '', id: KR3fa036_tls_001-p32.s21}
   - {type: line-break, offset: 362, content: '', id: KX_21_dup31, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:f7368b3c13383c96048981ecc2c029b68005a59346308313a7f96aa7deb06c88
+hash: sha256:8fee0c0c5527dcbd5fa1941fab11d72cdbeaf9c9227314048f09f164bfabe2d2

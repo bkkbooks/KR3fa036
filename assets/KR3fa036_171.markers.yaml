@@ -30,7 +30,6 @@ markers:
   - {type: line-break, offset: 187, content: '', id: KX_12_dup82, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 202, content: '', id: KR3fa036_tls_001-p86.s13}
   - {type: line-break, offset: 202, content: '', id: KX_13_dup82, _xml_error: duplicate-id, _xml_original_id: KX_13}
-  - {type: substitution, offset: 210, original: 俓, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3911}}
   - {type: 'tls:seg', offset: 217, content: '', id: KR3fa036_tls_001-p86.s14}
   - {type: line-break, offset: 217, content: '', id: KX_14_dup82, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 232, content: '', id: KR3fa036_tls_001-p86.s15}
@@ -45,7 +44,6 @@ markers:
   - {type: 'tls:seg-end', offset: 253, content: '', id: KR3fa036_tls_001-p86.s16.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 253, content: '', id: KR3fa036_tls_001-p86.s16.3}
   - {type: punctuation, offset: 253, content: ○, id: KR3fa036_tls_171-bkkpn6}
-  - {type: substitution, offset: 262, original: 俓, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3911}}
   - {type: 'tls:seg', offset: 266, content: '', id: KR3fa036_tls_001-p86.s17}
   - {type: line-break, offset: 266, content: '', id: KX_17_dup81, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: punctuation, offset: 284, content: ○, id: KR3fa036_tls_171-bkkpn7}
@@ -63,4 +61,4 @@ markers:
   - {type: 'tls:seg', offset: 348, content: '', id: KR3fa036_tls_001-p86.s21}
   - {type: line-break, offset: 348, content: '', id: KX_21_dup79, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:f51c22c430a2dc3471f54f1cd37348833bc7a9c10b041325ce407568882dbef1
+hash: sha256:cdfc5c20cfceb52a411b7ac7f93de79c0e5c42f772e998c859b5fdf8a25bdb65

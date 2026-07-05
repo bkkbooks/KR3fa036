@@ -11,15 +11,12 @@ markers:
   - {type: line-break, offset: 32, content: '', id: KX_3_dup98, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fa036_tls_001-p99.s4}
   - {type: line-break, offset: 37, content: '', id: KX_4_dup97, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 39, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
-  - {type: substitution, offset: 49, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1306}}
   - {type: 'tls:seg', offset: 57, content: '', id: KR3fa036_tls_001-p99.s5}
   - {type: line-break, offset: 57, content: '', id: KX_5_dup97, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: punctuation, offset: 65, content: ○, id: KR3fa036_tls_197-bkkpn1}
   - {type: punctuation, offset: 67, content: ○, id: KR3fa036_tls_197-bkkpn2}
   - {type: 'tls:seg', offset: 75, content: '', id: KR3fa036_tls_001-p99.s6}
   - {type: line-break, offset: 75, content: '', id: KX_6_dup97, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 84, original: 赶, replacement: 趕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0869}}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fa036_tls_001-p99.s7}
   - {type: line-break, offset: 95, content: '', id: KX_7_dup96, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 115, content: '', id: KR3fa036_tls_001-p99.s8}
@@ -56,4 +53,4 @@ markers:
   - {type: line-break, offset: 349, content: '', id: KX_21_dup92, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: punctuation, offset: 362, content: ○, id: KR3fa036_tls_197-bkkpn9}
   back: []
-hash: sha256:0c38d08673bac7b32558db8b993752b44acc348e63a79fa2f7754618663ee23d
+hash: sha256:3f88f9a3170071c558bfb00cdfaf9a36f3338f9573a58c9e0dbbac78c37d732d

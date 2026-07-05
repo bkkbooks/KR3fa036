@@ -7,7 +7,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup122, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fa036_tls_001-p128.s2}
   - {type: line-break, offset: 12, content: '', id: KX_2_dup127, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 19, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4559}}
   - {type: 'tls:seg', offset: 32, content: '', id: KR3fa036_tls_001-p128.s3}
   - {type: line-break, offset: 32, content: '', id: KX_3_dup126, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fa036_tls_001-p128.s4.1}
@@ -41,7 +40,6 @@ markers:
   - {type: line-break, offset: 156, content: '', id: KX_10_dup124, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 174, content: '', id: KR3fa036_tls_001-p128.s12}
   - {type: line-break, offset: 174, content: '', id: KX_12_dup123, _xml_error: duplicate-id, _xml_original_id: KX_12}
-  - {type: substitution, offset: 181, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4559}}
   - {type: 'tls:seg', offset: 194, content: '', id: KR3fa036_tls_001-p128.s13}
   - {type: line-break, offset: 194, content: '', id: KX_13_dup123, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 207, content: '', id: KR3fa036_tls_001-p128.s14}
@@ -61,4 +59,4 @@ markers:
   - {type: 'tls:seg', offset: 324, content: '', id: KR3fa036_tls_001-p128.s21}
   - {type: line-break, offset: 324, content: '', id: KX_21_dup120, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:60d924808b4875dcb6dcffcad18cb8426d8886a4069d8d0ad1eb6a620753b020
+hash: sha256:3b95eb2275198f18df0403a60cd9e7a1bc7d8d5be58a69db0c9952064c2232d5
