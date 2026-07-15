@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup196, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fa036_tls_001-p211.s2}
   - {type: line-break, offset: 20, content: '', id: KX_2_dup196, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 20, original: 逓, replacement: 遞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19913}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fa036_tls_001-p211.s3}
   - {type: line-break, offset: 40, content: '', id: KX_3_dup195, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fa036_tls_001-p211.s4}
@@ -23,6 +24,7 @@ markers:
   - {type: line-break, offset: 160, content: '', id: KX_9_dup190, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 180, content: '', id: KR3fa036_tls_001-p211.s11}
   - {type: line-break, offset: 180, content: '', id: KX_11_dup44, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: substitution, offset: 181, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fa036_tls_001-p211.s12}
   - {type: line-break, offset: 200, content: '', id: KX_12_dup192, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 221, content: '', id: KR3fa036_tls_001-p211.s13}
@@ -30,4 +32,4 @@ markers:
   - {type: 'tls:seg', offset: 226, content: '', id: KR3fa036_tls_001-p211.s19}
   - {type: line-break, offset: 226, content: '', id: KX_19_dup188, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:282576b4c2539a48d73935413ea40db40565ff403819716317d405a014c7dcfe
+hash: sha256:02d1877f1e3293d4c9c5f84a1a11514570ad019e61b9e53453ae0fd79988e845

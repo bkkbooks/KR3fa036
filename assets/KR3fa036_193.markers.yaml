@@ -44,14 +44,17 @@ markers:
   - {type: line-break, offset: 91, content: '', id: KX_7_dup94, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fa036_tls_001-p97.s8}
   - {type: line-break, offset: 97, content: '', id: KX_8_dup94, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 109, original: 疎, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17540}}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3fa036_tls_001-p97.s9}
   - {type: line-break, offset: 117, content: '', id: KX_9_dup94, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 137, content: '', id: KR3fa036_tls_001-p97.s10}
   - {type: line-break, offset: 137, content: '', id: KX_10_dup94, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 142, original: 冲, replacement: 沖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16379}}
   - {type: 'tls:seg', offset: 157, content: '', id: KR3fa036_tls_001-p97.s12}
   - {type: line-break, offset: 157, content: '', id: KX_12_dup93, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 177, content: '', id: KR3fa036_tls_001-p97.s13}
   - {type: line-break, offset: 177, content: '', id: KX_13_dup93, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 192, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: 'tls:seg', offset: 197, content: '', id: KR3fa036_tls_001-p97.s14}
   - {type: line-break, offset: 197, content: '', id: KX_14_dup93, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 217, content: '', id: KR3fa036_tls_001-p97.s15}
@@ -76,4 +79,4 @@ markers:
   - {type: 'tls:seg', offset: 330, content: '', id: KR3fa036_tls_001-p97.s21}
   - {type: line-break, offset: 330, content: '', id: KX_21_dup90, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:ed3698356ba28e34bd1d8543029ada3c01113a638134aa9d8af9e2fcf9d05653
+hash: sha256:88c31adac4366afcb88ab9082ff1cf6304cc4c0ce8c1e7de61c6d7587f528ab0

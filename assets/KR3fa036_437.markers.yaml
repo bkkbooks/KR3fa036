@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 36, content: '', id: KX_8_dup195, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: punctuation, offset: 43, content: ○, id: KR3fa036_tls_437-bkkpn5}
   - {type: punctuation, offset: 43, content: ○, id: KR3fa036_tls_437-bkkpn6}
+  - {type: substitution, offset: 47, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: punctuation, offset: 50, content: ○, id: KR3fa036_tls_437-bkkpn7}
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fa036_tls_001-p219.s9}
   - {type: line-break, offset: 53, content: '', id: KX_9_dup196, _xml_error: duplicate-id, _xml_original_id: KX_9}
@@ -33,6 +34,7 @@ markers:
   - {type: 'tls:seg', offset: 105, content: '', id: KR3fa036_tls_001-p219.s13}
   - {type: line-break, offset: 105, content: '', id: KX_13_dup197, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: punctuation, offset: 105, content: ○, id: KR3fa036_tls_437-bkkpn16}
+  - {type: substitution, offset: 109, original: 减, replacement: 減, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17346}}
   - {type: punctuation, offset: 117, content: ○, id: KR3fa036_tls_437-bkkpn17}
   - {type: 'tls:seg', offset: 123, content: '', id: KR3fa036_tls_001-p219.s14}
   - {type: line-break, offset: 123, content: '', id: KX_14_dup195, _xml_error: duplicate-id, _xml_original_id: KX_14}
@@ -63,4 +65,4 @@ markers:
   - {type: line-break, offset: 208, content: '', id: KX_19_dup196, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: punctuation, offset: 216, content: ○, id: KR3fa036_tls_437-bkkpn33}
   back: []
-hash: sha256:dc29a4fd2e206ac3e57266745f2716cff7c19aefdd9d038f632791cb103b1dd0
+hash: sha256:6d434dcd12283124b696de00cb35ece09636c2dab6dee74e85defbeaa27d3224

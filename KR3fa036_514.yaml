@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 即見其中矣每以時之四分當偏度之一度早則偏東遲則偏西也測月食求東西徧度圖甲乙為黃道丙丁為白道戊為闇虛地影已為食限庚為既限辛為初虧壬為食既癸為食甚申為生光酉為復圓戌為正北亥為正南甲為正西乙為正東壬前為陽厯壬後為隂厯
-  hash: sha256:da2a11a231448ed81ae2035acebd2efe92f794d6e9fe5d229fe54cd24f15d43d
+  text: 即見其中矣每以時之四分當偏度之一度早則偏東遲則偏西也測月食求東西遍度圖甲乙為黃道丙丁為白道戊為暗虛地影已為食限庚為既限辛為初虧壬為食既癸為食甚申為生光酉為復圓戌為正北亥為正南甲為正西乙為正東壬前為陽厯壬後為隂厯
+  hash: sha256:dca715ae78e8d3f8e6ffb8c00537e14f179396d805d1b55736d99b3c2bc27395
 metadata:
   title: 天學闡微
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa036.xml
-hash: sha256:22f72f7f57ccae6fa9af6695ec53f73e9f45f71bc42ec9cac9c0014fc827d8a8
+hash: sha256:9c9b7774c25270a335ddd651cccad1fb4492487e888bf8ebfa06c690adb1db37

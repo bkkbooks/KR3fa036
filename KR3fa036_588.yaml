@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 分得本日日出日入之時刻既得日出日入之時刻與晝夜平刻相加减即得晝夜永短刻數故晝夜永短不另列表太隂地平髙弧圖太隂地平之髙弧以赤緯定之而太隂之赤緯與太陽異太陽之黃經有定故赤緯亦有定太隂之黃經
-  hash: sha256:6fc4ae2507c2013becc877cf8ac80eec4a0f8d07fe2d298dc030dd91f7f0ec69
+  text: 分得本日日出日入之時刻既得日出日入之時刻與晝夜平刻相加減即得晝夜永短刻數故晝夜永短不另列表太隂地平髙弧圖太隂地平之髙弧以赤緯定之而太隂之赤緯與太陽異太陽之黃經有定故赤緯亦有定太隂之黃經
+  hash: sha256:d54ce7867ff6096f7d1b2d47962b6ca960bdd148173bf758bd1589be7952d69f
 metadata:
   title: 天學闡微
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa036.xml
-hash: sha256:b8ebb6e095546fe2cb646970c1fd7a0860211da12ec6d45a6949b600a0fe621d
+hash: sha256:968ed9893ca73836a6f1df45be47d9ef22c0bfc3f8649ee2c2fb34fc4c24ba37
